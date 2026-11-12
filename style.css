@@ -7,19 +7,19 @@ body {
 
 .qr-code {
     max-width: 300px;
-    margin-top: 10rem;
+    margin-top: 160px;
     background-color: hsl(0, 0%, 100%);
-    padding: 1rem;
-    border-radius: 1rem;
+    padding: 16px;
+    border-radius: 16px;
 }
 
 .image {
     width: 100%;
-    border-radius: 0.5rem;
+    border-radius: 8px;
 }
 
 .heading {
-    font-size: 1.5rem;
+    font-size: 24px;
     text-align: center;
     font-family: 700;
     color: hsl(218, 44%, 22%);
